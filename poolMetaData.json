@@ -2,6 +2,6 @@
 "name": "MDMA Staking Pool",
 "description": "Who the f* is Alice?",
 "ticker": "MDMA",
-"homepage": "https://www.mdmapool.de"
+"homepage": "https://www.mdmapool.de",
 "extended": "https://raw.githubusercontent.com/mtrweb/MDMA/main/extendedPoolMetaData.json"
 }
